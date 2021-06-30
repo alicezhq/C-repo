@@ -1,4 +1,4 @@
 Data Structure in C++
 
-Heap
-Hash Table
+1.Heap
+2.Hash Table
